@@ -1,0 +1,26 @@
+.html {
+  background-color: black;
+  margin: 0px;
+  padding: 0px;
+  border: 0px;
+  font-size: 100px;
+  vertical-align: baseline;
+}
+
+h1 {
+    color:black;
+    font-weight: bold;
+    text-align:center;
+    padding:5px;
+    font-family: 'courier new' monospace;
+}
+
+.container {
+  background-image: url(http://coololdphotos.com/wp-content/uploads/sites/8/2015/03/4a26760a-1024x832.jpg);
+}
+
+.form-group {
+  font-family: 'courier new' monospace;
+  font-size: 20px;
+  color: black;
+}
